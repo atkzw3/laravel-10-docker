@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS nomura_ckk_test;
